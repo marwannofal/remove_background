@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+rembg[cv2]
+cairosvg
+pillow
+onnxruntime
+onnxruntime-gpu
+python-multipart
